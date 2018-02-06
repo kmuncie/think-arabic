@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css?family=Harmattan|Noto+Sans");
+
+html {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+[lang="ar"] .vernacularText {
+  font-family: 'Harmattan', sans-serif;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.stackedTextContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  font-size: 1.2em;
+}
+
+.stackedTextContainer.center {
+   justify-content: center;
+}
+
+.stackedText {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0.5rem;
+}
+.stackedText > span {
+  min-height: 1rem;
+}
+
+.translatedText {
+  font-size: .5rem;
+  color: darkgrey;
+}
+
+.vernacularText {
+  line-height: 1.5;
+}
+
+.phoneticText {
+  color: firebrick;
+}
+

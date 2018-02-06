@@ -25,7 +25,7 @@ title404 = "Sorry, there is nothing here."
 
 [params.assets]
 favicon = "favicon.ico"
-customCSS = ["css/custom.css"]
+customCSS = ["css/style.css"]
 customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
@@ -44,7 +44,7 @@ recentPostsLength = 4
 hideSocialMenu = false
 showReadingTime = true
 noTermCloudShuffle = false
-homepageSections = ["recent_posts"]
+homepageSections = ["recent_posts", "categories"]
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
@@ -73,9 +73,9 @@ google_scholar = ""
 platforms = ["twitter","email"]
 
 [taxonomies]
-author = "authors"
 category = "categories"
 tag = "tags"
+series = "series"
 
 [permalinks]
 page = "/:slug/"
@@ -84,7 +84,14 @@ page = "/:slug/"
 name = "kmuncie.com"
 weight = -10
 url = "https://kmuncie.com"
-
+[[menu.main]]
+name = "Home"
+weight = -10
+url = "/"
+[[menu.main]]
+name = "RSS Feed"
+weight = 50
+url = "/index.xml"
 [blackfriday]
 hrefTargetBlank = true
 

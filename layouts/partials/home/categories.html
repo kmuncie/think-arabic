@@ -1,0 +1,23 @@
+<section class='home-section sep-after'>
+  <header>
+    <h2 class='title'>
+      {{- ( ( i18n "category" 2 ) | default .Title ) | title -}}
+    </h2>
+  </header>
+
+  <div class='term-cloud'>
+    <ul class='wrapper {{- if .Site.Params.settings.noTermCloudShuffle }} no-shuffle{{- end -}}'>
+    {{ range $term, $_ := .Site.Taxonomies.categories }}
+      <li>
+        <a href='{{ $.LanguagePrefix }}/tags/{{ $term | urlize }}'>
+        {{- with $.Site.GetPage "taxonomyTerm" "categories" $term -}}
+          {{- .Title -}}
+        {{- else -}}
+          {{- $term -}}
+        {{- end -}}
+        </a>
+      </li>
+    {{ end }}
+    </ul>
+  </div>
+</section>
