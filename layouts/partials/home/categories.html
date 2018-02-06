@@ -9,7 +9,7 @@
     <ul class='wrapper {{- if .Site.Params.settings.noTermCloudShuffle }} no-shuffle{{- end -}}'>
     {{ range $term, $_ := .Site.Taxonomies.categories }}
       <li>
-        <a href='{{ $.LanguagePrefix }}/tags/{{ $term | urlize }}'>
+        <a href='{{ $.LanguagePrefix }}/categories/{{ $term | urlize }}'>
         {{- with $.Site.GetPage "taxonomyTerm" "categories" $term -}}
           {{- .Title -}}
         {{- else -}}
