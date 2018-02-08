@@ -1,21 +1,38 @@
 ---
-title: "Word: Resurrection"
+title: "Word: Resurrection (ٱلْقِيَامَةِ)"
 date: 2018-02-05T22:15:41-05:00
-tags: [ "Arabic", "Theocratic", "Resurrection" ]
+tags: [ "Theocratic", "قوم"  ]
 categories:
    - "Words"
 slug: "word-resurrection"
 ---
 
-Today I am working on remembering the word Resurrection. It is a word that is specific to the Bible but highly used.
+Today I am working on remembering the word Resurrection. It is a word that is used in the Bible and has an interesting root verb.
+
+<audio controls="controls" style="width: 100%;">
+  Your browser does not support the <code>mp3 audio</code> element.
+  <source src="/arabic/audio/resurrection.mp3" type="audio/mp3">
+</audio>
 
 {{< stackedText center >}}
-   {{< word "resurrection" "ٱلْقِيَامَةِ" "ālqiăma" >}}
+   {{< word "the resurrection" "ٱلْقِيَامَةِ" "ālqiăma" >}}
 {{< /stackedText >}}
 
 | Part of Speech | 3 Letter Root |
 | ---------------|---------------|
 | Noun | قوم |
+
+## Related Words
+
+### [قَامَ](https://en.wiktionary.org/wiki/%D9%82%D9%88%D9%85#Etymology_1)
+
+This **verb** is related to the word resurrection.
+
+{{< stackedText center >}}
+   {{< word "he rose" "قَامَ" "qama" >}}
+{{< /stackedText >}}
+
+## In Use
 
 An example of this word being used in context can be found at [Acts
 24:15](https://www.jw.org/en/publications/bible/study-bible/books/acts/24/#v44024015)

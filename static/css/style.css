@@ -1,10 +1,14 @@
-@import url("https://fonts.googleapis.com/css?family=Harmattan|Noto+Sans");
+@import url("https://fonts.googleapis.com/css?family=Harmattan");
 
 html {
-  font-family: 'Noto Sans', sans-serif;
+   font-size: 25px;
 }
 
-[lang="ar"] .vernacularText {
+body * {
+  font-family: 'Harmattan', sans-serif !important;
+}
+
+[lang="ar"] {
   font-family: 'Harmattan', sans-serif;
 }
 
@@ -19,7 +23,6 @@ html {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  font-size: 1.2em;
 }
 
 .stackedTextContainer.center {
@@ -44,15 +47,25 @@ html {
 }
 
 .translatedText {
-  font-size: .5rem;
+  font-size: .9rem;
   color: darkgrey;
 }
 
 .vernacularText {
+   font-size: 1.75rem;
   line-height: 1.5;
 }
 
 .phoneticText {
   color: firebrick;
+}
+
+.smallText {
+   font-size: .8rem;
+   color: #888;
+}
+
+.smallText.center {
+   text-align: center;
 }
 
