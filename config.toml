@@ -44,7 +44,10 @@ recentPostsLength = 4
 hideSocialMenu = false
 showReadingTime = true
 noTermCloudShuffle = false
-homepageSections = ["recent_posts", "categories"]
+
+[params.sidebar]
+enable = true
+sticky = true
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
@@ -94,6 +97,10 @@ weight = 50
 url = "/index.xml"
 [blackfriday]
 hrefTargetBlank = true
+
+[params.widgets]
+homepage = ["recent_posts"]
+sidebar = ["about","taxonomy_cloud"]
 
 [languages]
 # edit this block for your own language
