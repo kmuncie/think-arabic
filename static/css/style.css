@@ -29,6 +29,45 @@ body * {
    justify-content: center;
 }
 
+.stackedTextContainer.toMan,
+.stackedTextContainer.toWoman {
+   position: relative;
+}
+
+.stackedTextContainer.toMan {
+   border-right: 2px solid #b43d3d;
+}
+
+.stackedTextContainer.toMan:before {
+   content: "to a man";
+   font-size: 0.75rem;
+   transform: rotate(90deg);
+   position: absolute;
+   right: -40px;
+   top: 15px;
+}
+
+.stackedTextContainer.toMan .phoneticText {
+  color: #b43d3d;
+}
+
+.stackedTextContainer.toWoman {
+   border-right: 2px solid #3b913e;
+}
+
+.stackedTextContainer.toWoman:before {
+   content: "to a woman";
+   font-size: 0.75rem;
+   transform: rotate(90deg);
+   position: absolute;
+   right: -48px;
+   top: 25px;
+}
+
+.stackedTextContainer.toWoman .phoneticText {
+  color: #3b913e;
+}
+
 .stackedText {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
@@ -57,7 +96,7 @@ body * {
 }
 
 .phoneticText {
-  color: firebrick;
+  color: #3060c7;
 }
 
 .smallText {

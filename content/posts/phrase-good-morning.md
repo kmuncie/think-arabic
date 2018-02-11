@@ -1,10 +1,9 @@
 ---
 title: "Phrase: Good Morning (صَباح الخَير)"
 date: 2018-02-07T12:49:03-05:00
-tags: [ "Good Morning", "صَباح الخَير" ]
 categories:
    - "Phrases"
-slug: "phrase-good-morning"
+slug: "good-morning"
 ---
 
 This is fundamental to friendly conversation in the Arabic language, and also is interesting in showing how the Arabic language often uses poetic and figurative words in ways you would not expect when coming from a language like English.

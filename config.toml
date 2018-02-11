@@ -43,7 +43,7 @@ hideEntryNavigation = ["page"] # boolean / array of sections
 recentPostsLength = 4
 hideSocialMenu = false
 showReadingTime = true
-noTermCloudShuffle = false
+noTermCloudShuffle = true
 
 [params.sidebar]
 enable = true

@@ -1,10 +1,9 @@
 ---
 title: "Word: Resurrection (ٱلْقِيَامَةِ)"
 date: 2018-02-05T22:15:41-05:00
-tags: [ "Theocratic", "قوم"  ]
 categories:
    - "Words"
-slug: "word-resurrection"
+slug: "resurrection"
 ---
 
 Today I am working on remembering the word Resurrection. It is a word that is used in the Bible and has an interesting root verb.
