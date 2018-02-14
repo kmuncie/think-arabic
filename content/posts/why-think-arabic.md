@@ -22,8 +22,8 @@ Often when learning a new word I want to see the text in its vernacular script, 
 
 {{< stackedText center >}}
    {{< word "I am" "أَنا" "ana" >}}
-   {{< word "Kevin" "كيفن" "Key-fin" >}}
+   {{< word "Kevin" "كڤين" "Kaf-in" >}}
 {{< /stackedText >}}
 
 Note: the phonetics are often going to be my own, meaning they will make sense to me but may not make as much sense to you. I am going to
-try and be consistent and improve with my phonetic system but no gaurantees :)
+try and be consistent and improve my phonetic system but no guarantees. :)
