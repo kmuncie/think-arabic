@@ -8,7 +8,7 @@ theme = "minimo"
 disqusShortname = ""
 googleAnalytics = "UA-113920799-1"
 
-Paginate = 5
+Paginate = 10
 preserveTaxonomyNames = true
 
 enableRobotsTXT = true # generate robots.txt
@@ -20,7 +20,7 @@ pygmentsCodefences = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "A personal blog documenting my efforts to learn Arabic"
+description = "If I explain it, perhaps I will remember it."
 title404 = "Sorry, there is nothing here."
 
 [params.assets]
@@ -40,7 +40,7 @@ suffix = ""
 dateFormat = "2006, Jan 02"
 listDateFormat = "2006, Jan 02"
 hideEntryNavigation = ["page"] # boolean / array of sections
-recentPostsLength = 4
+recentPostsLength = 15
 hideSocialMenu = false
 showReadingTime = true
 noTermCloudShuffle = true
