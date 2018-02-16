@@ -7,7 +7,6 @@ slug: "arabic-number-zero"
 ---
 
 <audio controls="controls" style="width: 100%;">
-  Your browser does not support the <code>mp3 audio</code> element.
   <source src="/arabic/audio/zero.mp3" type="audio/mp3">
 </audio>
 

@@ -9,12 +9,11 @@ slug: "resurrection"
 Today I am working on remembering the word Resurrection. It is a word that is used in the Bible and has an interesting root verb.
 
 <audio controls="controls" style="width: 100%;">
-  Your browser does not support the <code>mp3 audio</code> element.
   <source src="/arabic/audio/resurrection.mp3" type="audio/mp3">
 </audio>
 
 {{< stackedText center >}}
-   {{< word "the resurrection" "ٱلْقِيَامَةِ" "ālqiăma" >}}
+   {{< word "the resurrection" "ٱلْقِيَامَةِ" "al-qie-yama" >}}
 {{< /stackedText >}}
 
 | Part of Speech | 3 Letter Root |
@@ -38,9 +37,9 @@ An example of this word being used in context can be found at [Acts
 
 {{< stackedText >}}
    {{< word "And for" "وَلِي" "wa-lee" >}}
-   {{< word "hope" "رَجَاءٌ" "rajā'" >}}
+   {{< word "hope" "رَجَاءٌ" "raja'" >}}
    {{< word "by God" "بِٱللهِ،" "billah" >}}
-   {{< word "the hope" "ٱلرَّجَاءُ " "ār-rajā'" >}}
+   {{< word "the hope" "ٱلرَّجَاءُ " "ar-raja'" >}}
    {{< word "which" "ٱلَّذِي" "ul-luthi" >}}
    {{< word "with them" "لَدَيْهِمْ" "la-day-him" >}}
    {{< word "they" "هُمْ" "hum" >}}

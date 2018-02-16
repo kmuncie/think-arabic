@@ -9,7 +9,6 @@ slug: "good-morning"
 This is fundamental to friendly conversation in the Arabic language, and also is interesting in showing how the Arabic language often uses poetic and figurative words in ways you would not expect when coming from a language like English.
 
 <audio controls="controls" style="width: 100%;">
-  Your browser does not support the <code>mp3 audio</code> element.
   <source src="/arabic/audio/goodmorning.mp3" type="audio/mp3">
 </audio>
 
