@@ -1,5 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Harmattan");
 
+@media print {
+   * {
+      font-size: 12pt;
+   }
+}
+
 html {
    font-size: 25px;
 }
