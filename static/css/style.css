@@ -36,7 +36,9 @@ body * {
 }
 
 .stackedTextContainer.toMan,
-.stackedTextContainer.toWoman {
+.stackedTextContainer.toWoman,
+.stackedTextContainer.person1,
+.stackedTextContainer.person2 {
    position: relative;
 }
 
@@ -74,6 +76,39 @@ body * {
   color: #3b913e;
 }
 
+.stackedTextContainer.person1 {
+   border-right: 2px solid #d5913c;
+}
+
+.stackedTextContainer.person1:before {
+   content: "person 1";
+   font-size: 0.75rem;
+   transform: rotate(90deg);
+   position: absolute;
+   right: -40px;
+   top: 15px;
+}
+
+.stackedTextContainer.person1 .phoneticText {
+  color: #d5913c;
+}
+
+.stackedTextContainer.person2 {
+   border-right: 2px solid #6c32b6;
+}
+
+.stackedTextContainer.person2:before {
+   content: "person 2";
+   font-size: 0.75rem;
+   transform: rotate(90deg);
+   position: absolute;
+   right: -48px;
+   top: 25px;
+}
+
+.stackedTextContainer.person2 .phoneticText {
+  color: #6c32b6;
+}
 .stackedText {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
