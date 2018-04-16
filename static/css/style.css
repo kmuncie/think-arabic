@@ -23,6 +23,17 @@ body * {
           box-sizing: border-box;
 }
 
+a {
+   border-bottom: none !important;
+   color: #5b2fa0 !important;
+   transition: color 200ms linear, text-shadow 200ms linear;
+}
+
+a:hover {
+   color: #6300ff !important;
+   text-shadow: 0px 0px 9px rgba(99, 0, 255, 0.21);
+}
+
 .stackedTextContainer {
   display: -webkit-box;
   display: -ms-flexbox;
