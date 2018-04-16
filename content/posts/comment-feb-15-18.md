@@ -1,14 +1,16 @@
 ---
-title: "WT Comments for Feb 15th, 2018"
+title: "Comments for Feb 15th, 2018 Watchtower"
 date: 2018-04-09T17:41:48-04:00
 categories:
    - "Comments"
 slug: "comment-02-15-18"
 ---
 
-## [Paragraphs 12-14 — Question B](https://www.jw.org/en/publications/magazines/watchtower-simplified-february-2018/do-you-know-god-as-did-noah-daniel-job/#q12)
+## Lesson: Do You Know Jehovah as Did Noah, Daniel, and Job?
 
-### How did Jehovah bless Daniel’s courage and loyalty?
+### [Paragraphs 12-14 — Question B](https://www.jw.org/en/publications/magazines/watchtower-simplified-february-2018/do-you-know-god-as-did-noah-daniel-job/#q12)
+
+#### How did Jehovah bless Daniel’s courage and loyalty?
 
 {{< stackedText >}}
    {{< word "He stopped" "أَوْقَفَ" "awe-quafa" >}}
@@ -18,4 +20,21 @@ slug: "comment-02-15-18"
    {{< word "from" "من" "min" >}}
    {{< word "eating" "أَكْل" "akl" >}}
    {{< word "Daniel" "دانِيال" "Dan-yel" >}}
+{{< /stackedText >}}
+
+## Lesson: What Does It Mean to Be a Spiritual Person?
+
+### [Paragraph 9 - Question A](https://www.jw.org/en/publications/magazines/watchtower-simplified-february-2018/what-it-means-to-be-spiritual-person/#p18)
+
+
+{{< stackedText >}}
+   {{< word "We progress" "نَتَقَدَّمُ" "Nata-qad-dam" >}}
+   {{< word "spiritually" "رُوحِيًّا" "rue-he-ah" >}}
+   {{< word "when" "حِينَ" "hin" >}}
+   {{< word "consider" "نَتَأَمَّلُ" "nata'3mal" >}}
+   {{< word "on" "فِي" "fee" >}}
+   {{< word "examples" "أَمْثِلَةِ" "3m-thil-at" >}}
+   {{< word "individuals" "أَشْخَاصٍ" "3sh-GHas" >}}
+   {{< word "spiritual" "رُوحِيِّينَ" "rue-hin-na" >}}
+   {{< word "and we follow them" "وَنَتْبَعُهَا" "wan-ut-bee-ha" >}}
 {{< /stackedText >}}
