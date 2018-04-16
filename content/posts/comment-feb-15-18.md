@@ -29,12 +29,12 @@ slug: "comment-02-15-18"
 
 {{< stackedText >}}
    {{< word "We progress" "نَتَقَدَّمُ" "Nata-qad-dam" >}}
-   {{< word "spiritually" "رُوحِيًّا" "rue-he-ah" >}}
-   {{< word "when" "حِينَ" "hin" >}}
+   {{< word "spiritually" "رُوحِيًّا" "rue-he-ahn" >}}
+   {{< word "when" "حِينَ" "heen" >}}
    {{< word "consider" "نَتَأَمَّلُ" "nata'3mal" >}}
    {{< word "on" "فِي" "fee" >}}
-   {{< word "examples" "أَمْثِلَةِ" "3m-thil-at" >}}
-   {{< word "individuals" "أَشْخَاصٍ" "3sh-GHas" >}}
-   {{< word "spiritual" "رُوحِيِّينَ" "rue-hin-na" >}}
-   {{< word "and we follow them" "وَنَتْبَعُهَا" "wan-ut-bee-ha" >}}
+   {{< word "examples" "أَمْثِلَةِ" "3m-thil-e" >}}
+   {{< word "individuals" "أَشْخَاصٍ" "3sh-KHas" >}}
+   {{< word "spiritual" "رُوحِيِّينَ" "rue-he-yeen" >}}
+   {{< word "and we follow them" "وَنَتْبَعُهَا" "wa-nut-bah-3ouh-ha" >}}
 {{< /stackedText >}}
