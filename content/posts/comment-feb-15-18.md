@@ -38,3 +38,36 @@ slug: "comment-02-15-18"
    {{< word "spiritual" "رُوحِيِّينَ" "rue-he-yeen" >}}
    {{< word "and we follow them" "وَنَتْبَعُهَا" "wa-nut-bah-3ouh-ha" >}}
 {{< /stackedText >}}
+
+## Lesson: Move Forward as a Spiritual Person!
+
+### [Pargraph 5](https://www.jw.org/en/publications/magazines/watchtower-study-february-2018/move-forward-as-spiritual-person/#p13)
+
+{{< stackedText >}}
+   {{< word "Do" "هَلْ" "Hal" >}}
+   {{< word "observe" "أُلَاحِظُ" "ouh-la-hidth" >}}
+   {{< word "that" "أَنِّي" "3nee" >}}
+   {{< word "advance" "أَتَقَدَّمُ" "a'taqaddam" >}}
+   {{< word "spiritual?" "رُوحِيًّا؟‏" "rue-he-ah" >}}
+{{< /stackedText >}}
+
+{{< stackedText >}}
+   {{< word "Do" "هَلْ" "Hal" >}}
+   {{< word "I grow" "أُنَمِّي" "un'mee" >}}
+   {{< word "attributes" "صِفَاتٍ" "sif-at" >}}
+   {{< word "resemble" "شَبِيهَةً" "sha-bi-hat" >}}
+   {{< word "attributes of" "بِصِفَاتِ" "bis-si-fat" >}}
+   {{< word "the Christ?" "ٱلْمَسِيحِ؟‏" "al'Messahiya" >}}
+{{< /stackedText >}}
+
+### [Paragraph 16 - Read 1 Corinthians 15:33](https://www.jw.org/en/publications/magazines/watchtower-study-february-2018/move-forward-as-spiritual-person/#p26)
+
+{{< stackedText >}}
+   {{< word "No" "لَا" "La" >}}
+   {{< word "be mislead." "تَضِلُّوا.‏" "tah-dee-loo" >}}
+   {{< word "The companion" "اَلْمُعَاشَرَاتُ" "al'mu3-sha-rat" >}}
+   {{< word "wicked" "ٱلرَّدِيئَةُ" "ahr-rad-e-3h'" >}}
+   {{< word "corrupt" "تُفْسِدُ" "twof-sid" >}}
+   {{< word "the habits" "ٱلْعَادَاتِ" "al'3h-dat-an" >}}
+   {{< word "the beneficial" "ٱلنَّافِعَةَ." "naf-ee-3at" >}}
+{{< /stackedText >}}
