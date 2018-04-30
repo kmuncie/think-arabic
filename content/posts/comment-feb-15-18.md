@@ -3,7 +3,7 @@ title: "Comments for Feb 15th, 2018 Watchtower"
 date: 2018-04-09T17:41:48-04:00
 categories:
    - "Comments"
-slug: "comment-02-15-18"
+slug: "comments-02-15-18"
 ---
 
 ## Lesson: Do You Know Jehovah as Did Noah, Daniel, and Job?

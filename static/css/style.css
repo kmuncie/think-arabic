@@ -25,13 +25,18 @@ body * {
 
 a {
    border-bottom: none !important;
-   color: #5b2fa0 !important;
-   transition: color 200ms linear, text-shadow 200ms linear;
+   color: #4a7b2f !important;
+   transition: color 200ms ease-in-out;
 }
 
-a:hover {
-   color: #6300ff !important;
-   text-shadow: 0px 0px 9px rgba(99, 0, 255, 0.21);
+a:hover,
+a:focus {
+   color: #227539 !important;
+   text-shadow: 1px 1px 3px rgba(0,0,0,.25);
+}
+
+.container {
+   max-width: 900px;
 }
 
 .stackedTextContainer {
