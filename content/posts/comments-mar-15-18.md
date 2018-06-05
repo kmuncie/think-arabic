@@ -23,7 +23,7 @@ slug: "comments-mar-15-18"
 
 ## Discipline - Evidence of God’s Love
 
-### [Paragraph 12-14 (a)](https://wol.jw.org/en/wol/d/r1/lp-e/2018327#h=41)
+### [Paragraphs 12-14 (a)](https://wol.jw.org/en/wol/d/r1/lp-e/2018327#h=41)
 
 #### In what ways do some react to divine discipline?
 
@@ -34,4 +34,20 @@ slug: "comments-mar-15-18"
    {{< word "and" "" "wa" >}}
    {{< word "draw away from" "" "yabta'ih-doona" >}}
    {{< word "Jehovah" "" "Yhwh" >}}
+{{< /stackedText >}}
+
+## Listen to Discipline and Become Wise
+
+### [Paragraphs 8-10](https://wol.jw.org/en/wol/d/r1/lp-e/2018328#h=39)
+
+#### What can help Christian parents succeed in raising their children to serve Jehovah? Illustrate.
+
+{{< stackedText >}}
+   {{< word "The parents" "ٱلْوَالِدُونَ" "al'waladoon" >}}
+   {{< word "the Christian" "ٱلْمَسِيحِيُّونَ" "al'mesa-he-een" >}}
+   {{< word "counsel" "إِرْشَادَ" "ear'shad" >}}
+   {{< word "Jehovah" "يَهْوَهَ" "yah-wah" >}}
+   {{< word "in" "فِي" "fee" >}}
+   {{< word "education" "تَرْبِيَةِ" "tar-bee-yat" >}}
+   {{< word "their children" "أَوْلَادِهِمْ" "al'waladahm" >}}
 {{< /stackedText >}}
