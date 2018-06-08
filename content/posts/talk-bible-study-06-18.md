@@ -51,7 +51,7 @@ slug: "bible-study-06-18"
 {{< stackedText person2 >}}
    {{< word "We" "" "Nah-na" >}}
    {{< word "represent" "" "nit-mus-sal" >}}
-   {{< word "Jesus" "" "yes-sue-ah" >}}
+   {{< word "Jesus" "" "be yes-sue-ah" >}}
 {{< /stackedText >}}
 
 ## John 17:26
@@ -73,6 +73,24 @@ slug: "bible-study-06-18"
    {{< word "" "فِي" "fee-it" >}}
    {{< word "" "ٱتِّحَادٍ" "tee-had" >}}
    {{< word "" "بِهِمْ»." "be-him" >}}
+{{< /stackedText >}}
+
+### Review
+{{< stackedText person2 >}}
+   {{< word "Our name" "" "Ismm-na" >}}
+   {{< word "he knows" "" "be-aarif" >}}
+   {{< word "with the identity" "" "be-ha-we-et" >}}
+   {{< word "our God" "" "e-lay-he-na" >}}
+{{< /stackedText >}}
+{{< stackedText person2 >}}
+   {{< word "Our name" "" "Ism-na" >}}
+   {{< word "described" "" "be-you-suhf" >}}
+   {{< word "our importance" "" "moo-him-mit-na" >}}
+{{< /stackedText >}}
+{{< stackedText person2 >}}
+   {{< word "We" "" "Nah-na" >}}
+   {{< word "represent" "" "nit-mus-sal" >}}
+   {{< word "Jesus" "" "be yes-sue-ah" >}}
 {{< /stackedText >}}
 
 {{< stackedText person2 >}}
