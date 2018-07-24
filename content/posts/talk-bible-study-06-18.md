@@ -4,6 +4,7 @@ date: 2018-06-05T18:38:24-04:00
 categories:
    - "Talks"
 slug: "bible-study-06-18"
+draft: true
 ---
 
 {{< stackedText person2 >}}

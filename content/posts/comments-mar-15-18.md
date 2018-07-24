@@ -4,6 +4,7 @@ date: 2018-04-30T18:36:38-04:00
 categories:
    - "Comments"
 slug: "comments-mar-15-18"
+draft: true
 ---
 
 ## Baptism - A Requirement for Christians

@@ -5,6 +5,7 @@ tags: [ "", "" ]
 categories:
    - "Prayers"
 slug: "prayer-8"
+draft: true
 ---
 
 {{< stackedText >}}
