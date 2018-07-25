@@ -30,7 +30,7 @@ them.
 
 ### You're Welcome
 
-However, it is also common to hear عَفْواً, with the meaning of "you're welcome", used in response to [شُكْراً]({{< relref "posts/word-thank-you.md" >}}). This does not immediately make sense in connection
+However, it is also common to hear عَفْواً, with the meaning of "you're welcome", used in response to شُكْراً. This does not immediately make sense in connection
 with the root definition of the word but does fit in with the norms of many languages where "you're welcome" is the common response to thank you.
 This alone has some [interesting history](https://linguistics.stackexchange.com/questions/14639/whats-the-origin-of-youre-welcome) in English and other languages.
 
@@ -63,6 +63,5 @@ This alone has some [interesting history](https://linguistics.stackexchange.com/
 
 - [Wiktionary: root عفو](https://en.wiktionary.org/wiki/%D8%B9%D9%81%D9%88%D8%A7)
 - [Wikitionary: related verb عَفَا](https://en.wiktionary.org/wiki/%D8%B9%D9%81%D8%A7#Arabic)
-- [Thinking Arabic: Thank You (شُكْراً)]({{< relref "posts/word-thank-you.md" >}})
 - [Stack Exchange: Origin of You're Welcome](https://linguistics.stackexchange.com/questions/14639/whats-the-origin-of-youre-welcome)
 
