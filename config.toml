@@ -1,4 +1,4 @@
-baseURL = "http://kmuncie.com/arabic"
+baseURL = "https://kmuncie.com/arabic"
 title = "Thinking Arabic"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
@@ -16,12 +16,14 @@ enableRobotsTXT = true # generate robots.txt
 # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
 pygmentsCodefences = true
 
+enableEmoji = true
+
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
 
 [params.info]
 description = "If I explain it, perhaps I will remember it."
-title404 = "Sorry, there is nothing here."
+title404 = "Nothing's here!"
 
 [params.assets]
 favicon = "favicon.ico"
@@ -39,15 +41,24 @@ suffix = ""
 # date & time format: https://golang.org/pkg/time/
 dateFormat = "2006, Jan 02"
 listDateFormat = "2006, Jan 02"
+archiveDateFormat = "Jan 02"
 hideEntryNavigation = ["page"] # boolean / array of sections
-recentPostsLength = 15
-hideSocialMenu = false
+hideEntryMeta = ["page"] # boolean / array of sections
 showReadingTime = true
-noTermCloudShuffle = true
+showLastmod = true
+taxonomyCloudShuffle = true
+accentColor = "#ffcd00"
+hideMainMenu = false
+rtl = false
 
 [params.sidebar]
 enable = true
-sticky = true
+
+[params.widgets]
+header = ["breadcrumbs"]
+homepage = ["recent_posts"]
+sidebar = ["about","sidebar_menu","taxonomy_cloud"]
+footer = ["social_menu"]
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
@@ -63,22 +74,55 @@ titleSeparator = "•"
 
 [params.social]
 codepen = ""
-email = "arabic@kmuncie.com"
+email = "thinkarabic@kmuncie.com"
 facebook = ""
 github = ""
+gitlab = ""
 instagram = ""
 linkedin = ""
 twitter = "kmuncie"
 telegram = ""
 google_scholar = ""
+youtube = ""
 
-[params.social.config]
-platforms = ["twitter","email"]
+[params.comments]
+enable = false
+
+# Isso: https://posativ.org/isso/
+[params.comments.isso]
+enable = false
+scriptSrc = "" # "https://isso.example.com/js/embed.min.js"
+dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
+
+[params.comments.staticman]
+enable = true
+apiEndpoint = "https://api.staticman.net/v2/entry"
+maxDepth = 2
+username = ""
+repository = ""
+
+# Utterances: https://utteranc.es
+[params.comments.utterances]
+enable = false
+issueTerm = "pathname" # pathname / url / title
+
+[params.comments.utterances.github]
+username = ""
+repository = ""
+
+[params.search]
+client = "fuse" # algolia / fuse / lunr
+
+[params.search.algolia]
+appId = ""
+indexName = ""
+searchApiKey = ""
 
 [taxonomies]
+author = "authors"
 category = "categories"
-tag = "tags"
 series = "series"
+tag = "tags"
 
 [permalinks]
 page = "/:slug/"
@@ -87,20 +131,9 @@ page = "/:slug/"
 name = "kmuncie.com"
 weight = -10
 url = "https://kmuncie.com"
-[[menu.main]]
-name = "Home"
-weight = -10
-url = "/"
-[[menu.main]]
-name = "RSS Feed"
-weight = 50
-url = "/index.xml"
+
 [blackfriday]
 hrefTargetBlank = true
-
-[params.widgets]
-homepage = ["recent_posts"]
-sidebar = ["about","taxonomy_cloud"]
 
 [languages]
 # edit this block for your own language
